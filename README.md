@@ -18,24 +18,24 @@
 ## 경력기술서
 >### 2017.04 ~ 2017.06
 >- 옥반식품 쇼핑몰 Admin, Client 웹 사이트.
->- Java Spring Framework, JavaScript jQuery, MSSQL.
->- 개발 및 유지보수.
->- [Link](https://m.okban.co.kr/m/)
+>- Java Spring Framework, JavaScript jQuery, HTML, MSSQL.
+>- Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지, Admin 사이트 일부 페이지 front-end & back-end 개발 및 유지보수.
+>- [Website](https://m.okban.co.kr/m/)
 
 >### 2017.02 ~ 2017.03
 >- ZLAB 홈페이지 Admin, Client 웹 사이트.
->- Java Spring Framework, JavaScript jQuery, MySQL.
->- 개발 및 유지보수.
->- [Link](http://www.zlab.mobi/homepage/)
+>- Java Spring Framework, JavaScript jQuery, HTML, MySQL.
+>- Client 사이트 ABOUT US 페이지, Admin 사이트 일부 페이지 front-end & back-end 개발 및 유지보수.
+>- [Website](http://www.zlab.mobi/homepage/)
 
 >### 2016.10 ~ 2017.06
 >- AJ파크 주차장 검색 iOS 소프트웨어.
 >- Objective-C Foundation, UIKit.
 >- 메인 개발자, 개발 및 유지보수.
->- Open Source 사용.
+>- Open Source(AFNetworking, UIView Frame Helpers 등등)사용.
 >- Open API(Google Sign-In, Facebook Account Kit, Naver Oauth, Naver Map, T map, KakaoNavi, KakaoPay) 사용.
 >- 코드 기반 Auto Layout. 
->- [Link](https://itunes.apple.com/kr/app/aj%ED%8C%8C%ED%81%AC-%EC%A3%BC%EC%B0%A8%EC%9E%A5-%EC%9D%B4%EC%9A%A9%EA%B3%A0%EA%B0%9D-%EC%A3%BC%EC%B0%A8-%ED%95%A0%EC%9D%B8-%EC%A3%BC%EC%B0%A8-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%ED%95%A0%EC%9D%B8/id1180899976?mt=8)
+>- [AppStore](https://itunes.apple.com/kr/app/aj%ED%8C%8C%ED%81%AC-%EC%A3%BC%EC%B0%A8%EC%9E%A5-%EC%9D%B4%EC%9A%A9%EA%B3%A0%EA%B0%9D-%EC%A3%BC%EC%B0%A8-%ED%95%A0%EC%9D%B8-%EC%A3%BC%EC%B0%A8-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%ED%95%A0%EC%9D%B8/id1180899976?mt=8)
 
 >### 2015.10 ~ 2016.04
 >- 자재 발주 Windows 소프트웨어.
@@ -53,15 +53,15 @@
 >- 메인 개발자, 설계, 개발 및 유지보수.
 
 >### 2013.01 ~ 2016.04
->- HFC Windows 솔루션. 
+>- HFC 관제 & 관리 Windows 소프트웨어. 
 >- C++ MFC, Oracle.
 >- 추가 개발 건 개발 및 유지보수.
 
 >### 2012.04 ~ 2016.04
->- NMS, Enterprise iOS 소프트웨어.
+>- HFC 관제 & 관리 iOS 소프트웨어.
 >- Objective-C Foundation, UIKit.
->- 메인 개발자, 개발 및 유지보수, In-House 배포.
->- Open Source 사용.
+>- 메인 개발자, 개발 및 유지보수, Enterprise In-House 배포.
+>- Open Source(TBXML 등등) 사용.
 >- Open API(Daum Map) 사용.
 >- 코드 기반 Auto Layout.
 
