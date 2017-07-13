@@ -5,21 +5,15 @@
 ><p>새로운 기술 익히는데 관심 있어, 새로운 기술을 익히는데 두려움이 없습니다.</p>
 ><p>모나지 않은 성격입니다.</p>
 
-## 주소
->서울특별시 관악구
-
-## 연락처
->[![e-mail](https://img.shields.io/badge/email-eastsunshinee@gmail.com-blue.svg)](mailto:yo@yevgnenll.me)<br />
->![e-mail](https://img.shields.io/badge/phone-010--4788--1327-blue.svg)
-
 ## 기술
->|  |  |
+>| Skills Group | Skills |
 >| ------------- | ------------- |
->| Platform  | iOS, Windows |
->| Language  | Objective-C, C++, C#, Java, JavaScript |
+>| Platform  | iOS, Windows, Web |
+>| Language  | Objective-C, C++, C#, Java, HTML,JavaScript |
 >| DBMS | Oracle, MySQL, MS SQL Server |
->| IDE | Xcode, Visual Studio |
->| Tool | SmartSVN, MS SourceSafe |
+>| IDE | Xcode, Visual Studio, Eclipse |
+>| SVN | SmartSVN, MS SourceSafe |
+>| Util etc. | Trello, Postman, Bugzilla |
 
 ## 경력기술서
 >### 2017.04 ~ 2017.06
@@ -61,3 +55,10 @@
 >- NMS, Enterprise iOS 소프트웨어.
 >- Objective-C Foundation, UIKit.
 >- 메인 개발자, 개발 및 유지보수, In-House 배포.
+
+## 주소
+>서울특별시 관악구
+
+## 연락처
+>[![e-mail](https://img.shields.io/badge/email-eastsunshinee@gmail.com-blue.svg)](mailto:yo@yevgnenll.me)<br />
+>![e-mail](https://img.shields.io/badge/phone-010--4788--1327-blue.svg)
