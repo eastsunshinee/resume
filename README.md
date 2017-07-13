@@ -14,12 +14,12 @@
 >| DBMS | Oracle, MySQL, MS SQL Server |
 >| IDE | Xcode, Visual Studio, Eclipse |
 >| SVN | SmartSVN, MS SourceSafe |
->| Util etc. | Trello, Postman, Bugzilla |
+>| Etc. | Trello, Postman, Bugzilla |
 
 ## 경력기술서
 >### 2017.04 ~ 2017.06
 >- 옥반식품 **쇼핑몰** Admin, Client **웹사이트**.
->- Java Spring Framework, JavaScript jQuery, HTML, MSSQL.
+>- Java Spring Framework, JavaScript jQuery, HTML, MS SQL Server.
 >- Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지 front-end & back-end 개발 및 유지보수.
 >- Admin 사이트 일부 페이지 front-end & back-end 개발 및 유지보수.
 >- [Website](https://m.okban.co.kr/m/)
