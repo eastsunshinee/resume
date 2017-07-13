@@ -6,7 +6,7 @@
 >- 새로운 기술 익히는데 관심 있어, 새로운 기술을 익히는데 두려움이 없습니다.
 >- 모나지 않은 성격입니다.
 
-## 경력기술서
+## 능력
 >| Skills Group | Skills |
 >| ------------- | ------------- |
 >| Platform  | iOS, Windows, Web |
@@ -16,6 +16,7 @@
 >| SVN | SmartSVN, MS SourceSafe |
 >| Etc. | Trello, Postman, Bugzilla |
 
+## 경력기술서
 >### 2017.04 ~ 2017.06
 >- 옥반식품 **쇼핑몰** Admin, Client **Website**.
 >- Java Spring Framework, JavaScript jQuery, HTML, MS SQL Server.
