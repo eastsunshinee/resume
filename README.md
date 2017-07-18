@@ -19,17 +19,16 @@
 >### Software design patterns
 >| Software design patterns | Patterns |
 >| ------------- | ------------- |
->| Architectural patterns  | MVVM, VIPER, MVC, MVP |
+>| Architectural patterns  | MVC, MVVM, VIPER, MVP |
 >| GoF patterns  | Singleton, Abstract Factory, Etc. |
 >### iOS
->- Delegation, Categories 등 기본 문법 이해.
+>- Delegation, Categories, Protocol 이해.
 >- Open Source 경험.
 >- Open API 경험.
 >- Auto Layout with Code 경험. 
 >- Unit Test 경험.
-
->- 테스트 자동화 경험.
->- CI, CD 경험.
+>- ~~테스트 자동화 경험.~~
+>- ~~CI, CD 경험.~~
 
 ## 경력기술서
 >### 2017.04 ~ 2017.06
