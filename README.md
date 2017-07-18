@@ -14,7 +14,7 @@
 >| Language  | Objective-C, C++, C#, Java, HTML, JavaScript |
 >| DBMS | Oracle, MySQL, MS SQL Server |
 >| IDE | Xcode, Visual Studio, Eclipse |
->| SVN | SmartSVN, MS SourceSafe |
+>| SCM | SmartSVN, MS SourceSafe, Git |
 >| Etc. | Trello, Postman, Bugzilla |
 >### Software design patterns
 >| Software design patterns | Patterns |
