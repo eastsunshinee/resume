@@ -23,10 +23,11 @@
 >| GoF patterns  | Singleton, Abstract Factory, Etc. |
 >### iOS
 >- Delegation, Categories, Protocol 이해.
->- Open Source 경험.
->- Open API 경험.
+>- Open Source 사용 경험.
+>- Open API 사용 경험.
 >- Auto Layout with Code 경험. 
 >- Unit Test 경험.
+>- UI Test 경험.
 >- ~~테스트 자동화 경험.~~
 >- ~~CI, CD 경험.~~
 
