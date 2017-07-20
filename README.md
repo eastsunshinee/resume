@@ -22,7 +22,7 @@
 >| Architectural patterns  | MVC, MVVM, VIPER, MVP |
 >| GoF patterns  | Singleton, Abstract Factory, Etc. |
 >### iOS
->- Protocol, Categories, Delegation 이해.
+>- Protocol, Category, Delegation 이해.
 >- Open Source 사용 경험.
 >- Open API 사용 경험.
 >- Auto Layout with Code 경험. 
