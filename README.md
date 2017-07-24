@@ -28,6 +28,7 @@
 >- Auto Layout with Code 경험. 
 >- Unit Tests 경험.
 >- UI Tests 경험.
+>- Enterprise In-House 배포 경험.
 >- ~~테스트 자동화 경험.~~
 >- ~~CI, CD 경험.~~
 
