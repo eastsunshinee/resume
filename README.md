@@ -11,7 +11,7 @@
 >| Skills Group | Skills |
 >| ------------- | ------------- |
 >| Platform  | iOS, Windows, Web |
->| Language  | Objective-C, C++, C#, Java, HTML, JavaScript |
+>| Language  | Objective-C, Swift, C++, C#, Java, HTML, JavaScript |
 >| DBMS | Oracle, MySQL, MS SQL Server |
 >| IDE | Xcode, Visual Studio, Eclipse |
 >| SCM | SmartSVN, MS SourceSafe, Git |
@@ -23,12 +23,13 @@
 >| GoF patterns  | Singleton, Abstract Factory, Etc. |
 >### iOS
 >- Protocol, Category, Delegation 이해.
+>- Auto Layout with Code.
+>- Auto Layout with Storyboard.
 >- Open Source 사용 경험.
 >- Open API 사용 경험.
->- Auto Layout with Code 경험. 
+>- Enterprise In-House 배포 경험.
 >- Unit Tests 경험.
 >- UI Tests 경험.
->- Enterprise In-House 배포 경험.
 
 ## 경력기술서
 >### 2017.04 ~ 2017.06
