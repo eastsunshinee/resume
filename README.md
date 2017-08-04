@@ -16,11 +16,7 @@
 >| IDE | Xcode, Visual Studio, Eclipse |
 >| SCM | SmartSVN, MS SourceSafe, Git |
 >| Etc. | Trello, Postman, Bugzilla |
->### Software design patterns
->| Software design patterns | Patterns |
->| ------------- | ------------- |
->| Architectural patterns  | MVC, MVVM, VIPER, MVP |
->| GoF patterns  | Singleton, Abstract Factory, Etc. |
+
 >### iOS
 >- Protocol, Category, Delegation 이해.
 >- Auto Layout with Code.
@@ -28,8 +24,6 @@
 >- Open Source 사용 경험.
 >- Open API 사용 경험.
 >- Enterprise In-House 배포 경험.
->- Unit Tests 경험.
->- UI Tests 경험.
 
 ## 경력기술서
 >### 2017.04 ~ 2017.06
