@@ -42,7 +42,7 @@
 
 >### 2016.10 ~ 2017.06
 >- AJ파크 **주차장 검색 iOS Application**.
->- Objective-C Foundation, UIKit.
+>- Objective-C Foundation UIKit.
 >- 메인 개발자, 개발 및 유지보수.
 >- Open Source(AFNetworking, UIView Frame Helpers 등등)사용.
 >- Open API(Google Sign-In, Facebook Account Kit, Naver Oauth, Naver Map, T map, KakaoNavi, KakaoPay) 사용.
@@ -51,27 +51,27 @@
 
 >### 2015.10 ~ 2016.04
 >- **자재 발주 Windows Application**.
->- C#, .NET Framework, Oracle.
+>- C# .NET Framework, Oracle.
 >- 추가 개발 건 개발 및 유지보수.
 
 >### 2015.03 ~ 2015.08
 >- **헤드엔드 설계 Windows Application**. 
->- C#, .NET Framework, MindFusion, Oracle.
+>- C# .NET Framework, MindFusion, Oracle.
 >- 설계, 개발 및 유지보수.
 
 >### 2014.05 ~ 2014.09
 >- **서버 리소스 모니터링 Windows Application**.
->- C++, MFC, Oracle.
+>- C++ MFC, Oracle.
 >- 메인 개발자, 설계, 개발 및 유지보수.
 
 >### 2013.01 ~ 2016.04
 >- **HFC 관제 & 관리 Windows Application**. 
->- C++, MFC, Oracle.
+>- C++ MFC, Oracle.
 >- 추가 개발 건 개발 및 유지보수.
 
 >### 2012.04 ~ 2016.04
 >- **HFC 관제 & 관리 iOS Application**.
->- Objective-C Foundation, UIKit.
+>- Objective-C Foundation UIKit.
 >- 메인 개발자, 개발 및 유지보수, Enterprise In-House 배포.
 >- Open Source(TBXML 등등) 사용.
 >- Open API(Daum Map) 사용.
