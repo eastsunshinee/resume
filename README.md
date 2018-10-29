@@ -1,4 +1,4 @@
-# 개발자 김동현
+# iOS Software Engineer 김동현
 
 ## 소개
 >### 목표, 특징
