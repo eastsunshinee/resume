@@ -42,13 +42,13 @@
 ## 경력기술서
 >### 2018.03 ~ 2018.09
 >- QURY **지식, 질문을 통한 관심사 기반 SNS iOS Application**.
->- Objective-C, Foundation, UIKit.
+>- Swift, Foundation, UIKit.
 >- 설계, 개발 및 유지보수.
 >- 메인 개발자.
 
 >### 2017.10 ~ 2018.09
 >- G-Line(GENESIS), H-Line(HYUNDAI) **현대 자동차, 자동차 딜러 전용 SNS iOS Application**.
->- Swift, Foundation, UIKit.
+>- Objective-C, Foundation, UIKit.
 >- 추가 개발 건, 개발 및 유지보수.
 >- 메인 개발자.
 
