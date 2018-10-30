@@ -18,7 +18,8 @@
 >| Etc. | Trello, Postman, Bugzilla |
 
 >### iOS
->- Swift, Objective-C 사용 경험.
+>- Swift 중급.
+>- Objective-C 중급.
 >- Protocol, Extension, Optional, Closure 사용 경험.
 >- Asynchronous(GCD, Thread, NSOperationQueue) 사용 경험.
 >- Networking(Alamofire, AFNetworking) 사용 경험.
