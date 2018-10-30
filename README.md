@@ -18,11 +18,25 @@
 >| Etc. | Trello, Postman, Bugzilla |
 
 >### iOS
+>- Swift, Objective-C 사용 경험.
+>- Protocol, Extension, Optional, Closure 사용 경험.
+>- Asynchronous(GCD, Thread, NSOperationQueue) 사용 경험.
+>- Networking(Alamofire, AFNetworking) 사용 경험.
+>- Open Source(Alamofire, SwiftyJSON, Kingfisher, AFNetworking, JSONModel, SDWebImage 등등) 사용 경험.
+>- Open API(Google Sign-In, Facebook Account Kit, Naver Oauth, Naver Map, T map, KakaoNavi, NaverMap, KakaoPay 등등) 사용 경험.
+>- Enterprise Program In-House 배포 경험.
 >- Auto Layout with Storyboard.
 >- Auto Layout with Code.
->- Open Source 사용 경험.
->- Open API 사용 경험.
->- Enterprise Program In-House 배포 경험.
+
+>### Windows
+>- C#, .NET Framework, Oracle 중급.
+>- C++, MFC, Oracle 중급.
+
+>### Web Back-end.
+>- Java, Spring Framework, MS SQL Server, MySQL 초급.
+
+>### Web Front-end.
+>- JavaScript, jQuery, HTML 초급.
 
 ## 경력기술서
 >### 2018.03 ~ 2018.09
