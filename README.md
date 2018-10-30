@@ -54,15 +54,15 @@
 >### 2017.04 ~ 2017.06
 >- 옥반식품 **쇼핑몰** Admin, Client **Website**.
 >- Java, Spring Framework, JavaScript, jQuery, HTML, MS SQL Server.
->- Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지 front-end & back-end 개발 및 유지보수.
->- Admin 사이트 일부 페이지 front-end & back-end 개발 및 유지보수.
+>- Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지 Front-end & Back-end 개발 및 유지보수.
+>- Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
 >- [Website](https://m.okban.co.kr/m/)
 
 >### 2017.02 ~ 2017.03
 >- ZLAB **홈페이지** Admin, Client **Website**.
 >- Java, Spring Framework, JavaScript, jQuery, HTML, MySQL.
->- Client 사이트 ABOUT US 페이지 front-end & back-end 개발 및 유지보수.
->- Admin 사이트 일부 페이지 front-end & back-end 개발 및 유지보수.
+>- Client 사이트 ABOUT US 페이지 Front-end & Back-end 개발 및 유지보수.
+>- Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
 >- [Website](http://www.zlab.mobi/homepage/)
 
 >### 2016.10 ~ 2017.06
@@ -75,7 +75,7 @@
 >### 2015.10 ~ 2016.04
 >- MaterialOrders **자재 발주 Windows Application**.
 >- C#, .NET Framework, Oracle.
->- 추가 개발 건 개발 및 유지보수.
+>- 추가 개발 건, 개발 및 유지보수.
 
 >### 2015.03 ~ 2015.08
 >- HeadendDesigner **HEADEND(헤드엔드), RACK(서버 랙) 설계 Windows Application**. 
@@ -91,7 +91,7 @@
 >### 2013.01 ~ 2016.04
 >- Cablenavigator **광동축망 네트워크 관리 시스템(HFC NMS) Windows Application**. 
 >- C++, MFC, Oracle.
->- 추가 개발 건 개발 및 유지보수.
+>- 추가 개발 건, 개발 및 유지보수.
 
 >### 2012.04 ~ 2016.04
 >- CAMS **광동축망 네트워크 관리 시스템(HFC NMS), 간소화 버전 iOS Application**.
