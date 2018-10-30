@@ -42,17 +42,13 @@
 >### 2018.03 ~ 2018.09
 >- QURY **지식, 질문을 통한 관심사 기반 SNS iOS Application**.
 >- Objective-C, Foundation, UIKit.
->- Open Source(TBXML 등등) 사용.
->- Open API(Daum Map) 사용.
 >- 설계, 개발 및 유지보수.
 >- 메인 개발자.
 
 >### 2017.10 ~ 2018.09
 >- G-Line(GENESIS), H-Line(HYUNDAI) **현대 자동차, 자동차 딜러 전용 SNS iOS Application**.
 >- Swift, Foundation, UIKit.
->- Open Source(TBXML 등등) 사용.
->- Open API(Daum Map) 사용.
->- 개발 및 유지보수.
+>- 추가 개발 건, 개발 및 유지보수.
 >- 메인 개발자.
 
 >### 2017.04 ~ 2017.06
@@ -72,9 +68,8 @@
 >### 2016.10 ~ 2017.06
 >- AJ파크 **주차장 검색, 결제 iOS Application**.
 >- Objective-C, Foundation, UIKit.
->- 메인 개발자, 개발 및 유지보수.
->- Open Source(AFNetworking, UIView Frame Helpers 등등) 사용.
->- Open API(Google Sign-In, Facebook Account Kit, Naver Oauth, Naver Map, T map, KakaoNavi, KakaoPay) 사용.
+>- 설계, 개발 및 유지보수.
+>- 메인 개발자.
 >- [AppStore](https://itunes.apple.com/kr/app/aj%ED%8C%8C%ED%81%AC-%EC%A3%BC%EC%B0%A8%EC%9E%A5-%EC%9D%B4%EC%9A%A9%EA%B3%A0%EA%B0%9D-%EC%A3%BC%EC%B0%A8-%ED%95%A0%EC%9D%B8-%EC%A3%BC%EC%B0%A8-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%ED%95%A0%EC%9D%B8/id1180899976?mt=8)
 
 >### 2015.10 ~ 2016.04
@@ -101,8 +96,6 @@
 >### 2012.04 ~ 2016.04
 >- CAMS **광동축망 네트워크 관리 시스템(HFC NMS), 간소화 버전 iOS Application**.
 >- Objective-C, Foundation, UIKit.
->- Open Source(TBXML 등등) 사용.
->- Open API(Daum Map) 사용.
 >- 설계, 개발 및 유지보수.
 >- 메인 개발자.
 
