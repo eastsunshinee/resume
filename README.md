@@ -20,7 +20,6 @@
 >### iOS
 >- Swift 중급.
 >- Objective-C 중급.
->- Protocol, Extension, Optional, Closure 사용 경험.
 >- Asynchronous(GCD, Thread, NSOperationQueue) 사용 경험.
 >- Networking(Alamofire, AFNetworking) 사용 경험.
 >- Open Source(Alamofire, SwiftyJSON, Kingfisher, AFNetworking, JSONModel, SDWebImage 등등) 사용 경험.
