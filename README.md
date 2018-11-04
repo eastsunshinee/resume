@@ -24,7 +24,7 @@
 >- Networking(Alamofire, AFNetworking) 사용 경험.
 >- Open Source(Alamofire, SwiftyJSON, Kingfisher, AFNetworking, JSONModel, SDWebImage 등등) 사용 경험.
 >- Open API(Google Sign-In, Facebook Account Kit, Naver Oauth, Naver Map, T map, KakaoNavi, NaverMap, KakaoPay 등등) 사용 경험.
->- App Store Connect TestFlight 사용 경험.
+>- App Store Connect, TestFlight 사용 경험.
 >- Enterprise Program In-House 배포 경험.
 >- Auto Layout with Storyboard.
 >- Auto Layout with Code.
