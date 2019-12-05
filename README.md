@@ -75,14 +75,13 @@
 >   - Java, Spring Framework, JavaScript, jQuery, HTML, MS SQL Server.
 >   - Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지 Front-end & Back-end 개발 및 유지보수.
 >   - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
->   - [Website](https://m.okban.co.kr/m/)
+>   - [Website](https://www.okban.co.kr/homepage)
 
 >### 2017.02 ~ 2017.03
 > - ZLAB **홈페이지** Admin, Client **Website**.
 >   - Java, Spring Framework, JavaScript, jQuery, HTML, MySQL.
 >   - Client 사이트 ABOUT US 페이지 Front-end & Back-end 개발 및 유지보수.
 >   - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
->   - [Website](http://www.zlab.mobi/homepage/)
 
 >### 2016.10 ~ 2017.06
 > - AJ파크 **주차장 검색, 결제 iOS Application**.
