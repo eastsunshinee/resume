@@ -41,64 +41,64 @@
 
 ## 경력기술서
 >### 2018.03 ~ 2018.09
->- QURY **지식, 질문을 통한 관심사 기반 SNS iOS Application**.
->- Swift, Foundation, UIKit.
->- 설계, 개발 및 유지보수.
->- 메인 개발자.
+> - QURY **지식, 질문을 통한 관심사 기반 SNS iOS Application**.
+>   - Swift, Foundation, UIKit.
+>   - 설계, 개발 및 유지보수.
+>   - 메인 개발자.
 
 >### 2017.10 ~ 2018.09
->- G-Line(GENESIS), H-Line(HYUNDAI) **현대 자동차, 자동차 딜러 전용 SNS iOS Application**.
->- Objective-C, Foundation, UIKit.
->- 추가 개발 건, 개발 및 유지보수.
->- 메인 개발자.
+> - G-Line(GENESIS), H-Line(HYUNDAI) **현대 자동차, 자동차 딜러 전용 SNS iOS Application**.
+>  - Objective-C, Foundation, UIKit.
+>  - 추가 개발 건, 개발 및 유지보수.
+>  - 메인 개발자.
 
 >### 2017.04 ~ 2017.06
->- 옥반식품 **쇼핑몰** Admin, Client **Website**.
->- Java, Spring Framework, JavaScript, jQuery, HTML, MS SQL Server.
->- Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지 Front-end & Back-end 개발 및 유지보수.
->- Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
->- [Website](https://m.okban.co.kr/m/)
+> - 옥반식품 **쇼핑몰** Admin, Client **Website**.
+>   - Java, Spring Framework, JavaScript, jQuery, HTML, MS SQL Server.
+>   - Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지 Front-end & Back-end 개발 및 유지보수.
+>   - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
+>   - [Website](https://m.okban.co.kr/m/)
 
 >### 2017.02 ~ 2017.03
->- ZLAB **홈페이지** Admin, Client **Website**.
->- Java, Spring Framework, JavaScript, jQuery, HTML, MySQL.
->- Client 사이트 ABOUT US 페이지 Front-end & Back-end 개발 및 유지보수.
->- Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
->- [Website](http://www.zlab.mobi/homepage/)
+> - ZLAB **홈페이지** Admin, Client **Website**.
+>   - Java, Spring Framework, JavaScript, jQuery, HTML, MySQL.
+>   - Client 사이트 ABOUT US 페이지 Front-end & Back-end 개발 및 유지보수.
+>   - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
+>   - [Website](http://www.zlab.mobi/homepage/)
 
 >### 2016.10 ~ 2017.06
->- AJ파크 **주차장 검색, 결제 iOS Application**.
->- Objective-C, Foundation, UIKit.
->- 설계, 개발 및 유지보수.
->- 메인 개발자.
->- [AppStore](https://itunes.apple.com/kr/app/aj%ED%8C%8C%ED%81%AC-%EC%A3%BC%EC%B0%A8%EC%9E%A5-%EC%9D%B4%EC%9A%A9%EA%B3%A0%EA%B0%9D-%EC%A3%BC%EC%B0%A8-%ED%95%A0%EC%9D%B8-%EC%A3%BC%EC%B0%A8-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%ED%95%A0%EC%9D%B8/id1180899976?mt=8)
+> - AJ파크 **주차장 검색, 결제 iOS Application**.
+>   - Objective-C, Foundation, UIKit.
+>   - 설계, 개발 및 유지보수.
+>   - 메인 개발자.
+>   - [AppStore](https://itunes.apple.com/kr/app/aj%ED%8C%8C%ED%81%AC-%EC%A3%BC%EC%B0%A8%EC%9E%A5-%EC%9D%B4%EC%9A%A9%EA%B3%A0%EA%B0%9D-%EC%A3%BC%EC%B0%A8-%ED%95%A0%EC%9D%B8-%EC%A3%BC%EC%B0%A8-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%ED%95%A0%EC%9D%B8/id1180899976?mt=8)
 
 >### 2015.10 ~ 2016.04
->- MaterialOrders **자재 발주 Windows Application**.
->- C#, .NET Framework, Oracle.
->- 추가 개발 건, 개발 및 유지보수.
+> - MaterialOrders **자재 발주 Windows Application**.
+>   - C#, .NET Framework, Oracle.
+>   - 추가 개발 건, 개발 및 유지보수.
 
 >### 2015.03 ~ 2015.08
->- HeadendDesigner **HEADEND(헤드엔드), RACK(서버 랙) 설계 Windows Application**. 
->- C#, .NET Framework, MindFusion, Oracle.
->- 설계, 개발 및 유지보수.
+> - HeadendDesigner **HEADEND(헤드엔드), RACK(서버 랙) 설계 Windows Application**. 
+>   - C#, .NET Framework, MindFusion, Oracle.
+>   - 설계, 개발 및 유지보수.
 
 >### 2014.05 ~ 2014.09
->- ResourceMonitoring **서버 리소스 모니터링 Windows Application**.
->- C++, MFC, Oracle.
->- 설계, 개발 및 유지보수.
->- 메인 개발자.
+> - ResourceMonitoring **서버 리소스 모니터링 Windows Application**.
+>   - C++, MFC, Oracle.
+>   - 설계, 개발 및 유지보수.
+>   - 메인 개발자.
 
 >### 2013.01 ~ 2016.04
->- Cablenavigator **광동축망 네트워크 관리 시스템(HFC NMS) Windows Application**. 
->- C++, MFC, Oracle.
->- 추가 개발 건, 개발 및 유지보수.
+> - Cablenavigator **광동축망 네트워크 관리 시스템(HFC NMS) Windows Application**. 
+>   - C++, MFC, Oracle.
+>   - 추가 개발 건, 개발 및 유지보수.
 
 >### 2012.04 ~ 2016.04
->- CAMS **광동축망 네트워크 관리 시스템(HFC NMS), 간소화 버전 iOS Application**.
->- Objective-C, Foundation, UIKit.
->- 설계, 개발 및 유지보수.
->- 메인 개발자.
+> - CAMS **광동축망 네트워크 관리 시스템(HFC NMS), 간소화 버전 iOS Application**.
+>   - Objective-C, Foundation, UIKit.
+>   - 설계, 개발 및 유지보수.
+>   - 메인 개발자.
 
 ## 주소 & 연락처
 >### 주소
