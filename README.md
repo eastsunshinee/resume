@@ -40,6 +40,24 @@
 >- JavaScript, jQuery, HTML 초급.
 
 ## 경력기술서
+> 2018.11 ~ 2019.11.
+> - Roundee, Linearhub, **Video Conferencing iOS Application**.
+>   - Swift, Foundation, UIKit.
+>   - 설계, 개발 및 유지보수.
+>   - 메인 개발자.
+>   - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585)
+
+> ### 2018.11 ~ 2019.11.
+> - Roundee Framework, LOTTE e-commerce, **Video Conferencing iOS Framework**.
+>   - Swift, Foundation, UIKit.
+>   - 설계, 개발 및 유지보수.
+>   - 메인 개발자.
+
+> ### 2018.11 ~ 2019.11.
+> - mTalk, HYUNDAI AutoEver, **Enterprise Messenger iOS Application**.
+>   - JavaScript, Titanium SDK.
+>   - 추가 개발 건, 개발 및 유지보수.
+
 >### 2018.03 ~ 2018.09
 > - QURY **지식, 질문을 통한 관심사 기반 SNS iOS Application**.
 >   - Swift, Foundation, UIKit.
@@ -47,10 +65,10 @@
 >   - 메인 개발자.
 
 >### 2017.10 ~ 2018.09
-> - G-Line(GENESIS), H-Line(HYUNDAI) **현대 자동차, 자동차 딜러 전용 SNS iOS Application**.
->  - Objective-C, Foundation, UIKit.
->  - 추가 개발 건, 개발 및 유지보수.
->  - 메인 개발자.
+> - G-Line(GENESIS), H-Line(HYUNDAI), HYUNDAI AutoEver **Messenger iOS Application**.
+>   - Objective-C, Foundation, UIKit.
+>   - 추가 개발 건, 개발 및 유지보수.
+>   - 메인 개발자.
 
 >### 2017.04 ~ 2017.06
 > - 옥반식품 **쇼핑몰** Admin, Client **Website**.
@@ -71,7 +89,6 @@
 >   - Objective-C, Foundation, UIKit.
 >   - 설계, 개발 및 유지보수.
 >   - 메인 개발자.
->   - [AppStore](https://itunes.apple.com/kr/app/aj%ED%8C%8C%ED%81%AC-%EC%A3%BC%EC%B0%A8%EC%9E%A5-%EC%9D%B4%EC%9A%A9%EA%B3%A0%EA%B0%9D-%EC%A3%BC%EC%B0%A8-%ED%95%A0%EC%9D%B8-%EC%A3%BC%EC%B0%A8-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%ED%95%A0%EC%9D%B8/id1180899976?mt=8)
 
 >### 2015.10 ~ 2016.04
 > - MaterialOrders **자재 발주 Windows Application**.
