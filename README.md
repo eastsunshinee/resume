@@ -1,43 +1,44 @@
 # iOS Software Engineer 김동현
 
 ## 소개
->### 목표, 특징
->- 모든 플랫폼에서 개발할 수 있는 소프트웨어 엔지니어가 되는 게 목표입니다.
->- 새로운 기술을 익히는데 관심 있어, 새로운 기술을 익히는데 두려움이 없습니다.
->- 모나지 않은 성격입니다.
+> ### 목표, 특징
+> - 모든 플랫폼에서 개발할 수 있는 소프트웨어 엔지니어가 되는 게 목표입니다.
+> - 새로운 기술을 익히는데 관심 있어, 새로운 기술을 익히는데 두려움이 없습니다.
+> - 모나지 않은 성격입니다.
 
 ## 능력
->### Skills group
->| Skills Group | Skills |
->| ------------- | ------------- |
->| Platform  | iOS, Windows, Web |
->| Language  | Swift, Objective-C, C#, C++, Java, JavaScript |
->| DBMS | Oracle, MS SQL Server, MySQL |
->| IDE | Xcode, Visual Studio, Eclipse |
->| SCM | Git(Sourcetree), SVN(SmartSVN), VSS(MS Visual SourceSafe) |
->| Etc. | Trello, Postman, Bugzilla |
+> ### Skills group
+> | Skills Group | Skills |
+> | ------------- | ------------- |
+> | Platform  | iOS, Windows, Web |
+> | Language  | Swift, Objective-C, C#, C++, Java, JavaScript |
+> | DBMS | Oracle, MS SQL Server, MySQL |
+> | IDE | Xcode, Visual Studio, Eclipse |
+> | SCM | Git(Sourcetree), SVN(SmartSVN), VSS(MS Visual SourceSafe) |
+> | etc. | Postman, Asana, Trello, Figma, Sketch |
 
->### iOS
->- Swift 중급.
->- Objective-C 중급.
->- Asynchronous(GCD, Thread, NSOperationQueue) 사용 경험.
->- Networking(Alamofire, AFNetworking) 사용 경험.
->- Open Source(Alamofire, SwiftyJSON, Kingfisher, AFNetworking, JSONModel, SDWebImage 등등) 사용 경험.
->- Open API(Google Sign-In, Facebook Account Kit, Naver Oauth, Naver Map, T map, KakaoNavi, NaverMap, KakaoPay 등등) 사용 경험.
->- App Store Connect, TestFlight 사용 경험.
->- Enterprise Program In-House 배포 경험.
->- Auto Layout with Storyboard.
->- Auto Layout with Code.
+> ### iOS
+> - Swift 중급.
+> - Objective-C 중급.
+> - Asynchronous(GCD, NSOperation) 사용 경험.
+> - Networking(Socket, HTTP) 사용 경험.
+> - Open Source(Alamofire, SwiftyJSON, Kingfisher, AFNetworking, JSONModel, SDWebImage 등등) 사용 경험.
+> - Open API(Google Sign-In, Facebook Account Kit, Naver Oauth, Naver Map, T map, KakaoNavi, NaverMap, KakaoPay 등등) 사용 경험.
+> - TestFlight, App Store Connect 사용 경험.
+> - App Store 배포 경험.
+> - In-House 배포 경험.
+> - Auto Layout with Storyboard.
+> - Auto Layout with Code.
 
 >### Windows
->- C#, .NET Framework, Oracle 중급.
->- C++, MFC, Oracle 중급.
+> - C#, .NET Framework, Oracle 중급.
+> - C++, MFC, Oracle 중급.
 
 >### Web Back-end.
->- Java, Spring Framework, MS SQL Server, MySQL 초급.
+> - Java, Spring Framework, MS SQL Server, MySQL 초급.
 
 >### Web Front-end.
->- JavaScript, jQuery, HTML 초급.
+> - JavaScript, jQuery, HTML 초급.
 
 ## 경력기술서
 > 2018.11 ~ 2019.11.
@@ -117,8 +118,8 @@
 >   - 메인 개발자.
 
 ## 주소 & 연락처
->### 주소
->- 서울특별시 관악구
->### 연락처
->- [![e-mail](https://img.shields.io/badge/email-eastsunshinee@gmail.com-blue.svg)](mailto:yo@yevgnenll.me)<br />
->- ![e-mail](https://img.shields.io/badge/phone-010--4788--1327-blue.svg)
+> ### 주소
+> - 서울특별시 관악구
+> ### 연락처
+> - [![e-mail](https://img.shields.io/badge/email-eastsunshinee@gmail.com-blue.svg)](mailto:yo@yevgnenll.me)<br />
+> - ![e-mail](https://img.shields.io/badge/phone-010--4788--1327-blue.svg)
