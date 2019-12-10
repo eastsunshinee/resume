@@ -16,9 +16,9 @@
 > | ------------- | ------------- |
 > | Platform  | iOS, Windows, Web |
 > | Language  | Swift, Objective-C, C#, C++, Java, JavaScript |
-> | DBMS | Oracle, MS SQL Server, MySQL |
 > | IDE | Xcode, Visual Studio, Eclipse |
 > | SCM | Git(Sourcetree), SVN(SmartSVN), VSS(MS Visual SourceSafe) |
+> | DBMS | Oracle, MS SQL Server, MySQL |
 > | etc. | Asana, Trello, Postman, Figma, Sketch |
 >
 > ## iOS
@@ -45,6 +45,7 @@
 > - JavaScript, jQuery, HTML 초급.
 
 ## 경력
+> 6년 7개월.
 > ## (주)리니어허브
 > - 2018.11 ~ 2019.11.
 > - iOS App Developer
@@ -65,10 +66,10 @@
 > ## **Linearhub - Roundee**
 > - 2018.11 ~ 2019.11.
 > - **Video Conferencing iOS Application**.
-> - Swift, Foundation, UIKit.
-> - 설계, 개발 및 유지보수.
-> - 메인 개발자.
-> - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585)
+>   - Swift, Foundation, UIKit.
+>   - 설계, 개발 및 유지보수.
+>   - 메인 개발자.
+>   - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585)
 >
 > ## **LOTTE Ecommerce - Roundee Framework**
 > - 2018.11 ~ 2019.11.
