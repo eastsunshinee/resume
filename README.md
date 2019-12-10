@@ -1,13 +1,13 @@
 # iOS Software Engineer 김동현
 
 ## 소개
-> ### 목표, 특징
+> ## 목표, 특징
 > - 모든 플랫폼에서 개발할 수 있는 소프트웨어 엔지니어가 되는 게 목표입니다.
 > - 새로운 기술을 익히는데 관심 있어, 새로운 기술을 익히는데 두려움이 없습니다.
 > - 모나지 않은 성격입니다.
 
 ## 능력
-> ### Skills
+> ## Skills
 > | Group | Skill |
 > | ------------- | ------------- |
 > | Platform  | iOS, Windows, Web |
@@ -17,7 +17,7 @@
 > | SCM | Git(Sourcetree), SVN(SmartSVN), VSS(MS Visual SourceSafe) |
 > | etc. | Asana, Trello, Postman, Figma, Sketch |
 >
-> ### iOS
+> ## iOS
 > - Swift 중급.
 > - Objective-C 중급.
 > - Asynchronous(GCD, NSOperation) 사용 경험.
@@ -30,14 +30,14 @@
 > - Auto Layout with Storyboard.
 > - Auto Layout with Code.
 >
-> ### Windows
+> ## Windows
 > - C#, .NET Framework, Oracle 중급.
 > - C++, MFC, Oracle 중급.
 >
-> ### Web Back-end.
+> ## Web Back-end.
 > - Java, Spring Framework, MS SQL Server, MySQL 초급.
 >
-> ### Web Front-end.
+> ## Web Front-end.
 > - JavaScript, jQuery, HTML 초급.
 
 ## 경력
@@ -79,7 +79,7 @@
 > - JavaScript, Titanium SDK.
 > - 추가 개발 건, 개발 및 유지보수.
 >
-> ## **QURY**
+> ## **DEOHAM - QURY**
 > - **SNS iOS Application**.
 > - 2018.03 ~ 2018.09.
 > - Swift, Foundation, UIKit.
@@ -93,7 +93,7 @@
 > - 추가 개발 건, 개발 및 유지보수.
 > - 메인 개발자.
 >
-> ## **옥반식품** 
+> ## **OKBAN - 옥반식품** 
 > - **Shopping Mall Website**.
 > - 2017.04 ~ 2017.06
 > - Java, Spring Framework, JavaScript, jQuery, HTML, MS SQL Server.
@@ -101,14 +101,14 @@
 > - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
 > - [Website](https://www.okban.co.kr/homepage)
 >
-> ## **ZLAB 홈페이지** 
+> ## **ZLAB - ZLAB 홈페이지** 
 > - **Homepage Website**.
 > - 2017.02 ~ 2017.03
 > - Java, Spring Framework, JavaScript, jQuery, HTML, MySQL.
 > - Client 사이트 ABOUT US 페이지 Front-end & Back-end 개발 및 유지보수.
 > - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
 >
-> ## **AJ파크 - AJ파크** 
+> ## **AJ Park - AJ파크** 
 > - **Navigation iOS Application**.
 > - 2016.10 ~ 2017.06
 > - Objective-C, Foundation, UIKit.
@@ -128,19 +128,19 @@
 > - 설계, 개발 및 유지보수.
 > - 메인 개발자.
 >
-> ## **MaterialOrders** 
+> ## **Essen - MaterialOrders** 
 > - 자재 발주 **Enterprise Windows Application**.
 > - 2015.10 ~ 2016.04
 > - C#, .NET Framework, Oracle.
 > - 추가 개발 건, 개발 및 유지보수.
 >
-> ## **HeadendDesigner** 
+> ## **Essen - HeadendDesigner** 
 > - HEADEND(헤드엔드), RACK(서버 랙) 설계 **Enterprise Windows Application**. 
 > - 2015.03 ~ 2015.08
 > - C#, .NET Framework, MindFusion, Oracle.
 > - 설계, 개발 및 유지보수.
 >
-> ## **ResourceMonitoring** 
+> ## **Essen - ResourceMonitoring** 
 > - 서버 리소스 모니터링 **Enterprise Windows Application**.
 > - 2014.05 ~ 2014.09
 > - C++, MFC, Oracle.
