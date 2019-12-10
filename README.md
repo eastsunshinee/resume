@@ -15,8 +15,8 @@
 > | DBMS | Oracle, MS SQL Server, MySQL |
 > | IDE | Xcode, Visual Studio, Eclipse |
 > | SCM | Git(Sourcetree), SVN(SmartSVN), VSS(MS Visual SourceSafe) |
-> | etc. | Postman, Asana, Trello, Figma, Sketch |
-
+> | etc. | Asana, Trello, Postman, Figma, Sketch |
+>
 > ### iOS
 > - Swift 중급.
 > - Objective-C 중급.
@@ -29,37 +29,56 @@
 > - In-House 배포 경험.
 > - Auto Layout with Storyboard.
 > - Auto Layout with Code.
-
+>
 > ### Windows
 > - C#, .NET Framework, Oracle 중급.
 > - C++, MFC, Oracle 중급.
-
+>
 > ### Web Back-end.
 > - Java, Spring Framework, MS SQL Server, MySQL 초급.
-
+>
 > ### Web Front-end.
 > - JavaScript, jQuery, HTML 초급.
 
-## 이력서
-> ## **Linearhub**
-> ### 2018.11 ~ 2019.11.
-> - **Roundee**, Linearhub, **Video Conferencing iOS Application**.
->   - Swift, Foundation, UIKit.
->   - 설계, 개발 및 유지보수.
->   - 메인 개발자.
->   - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585)
+## 경력
+> ## (주)리니어허브
+> - 2018.11 ~ 2019.11.
+> - iOS App Developer
 >
-> ### 2018.11 ~ 2019.11.
-> - **Roundee Framework**, LOTTE e-commerce, **Video Conferencing iOS Framework**.
->   - Swift, Foundation, UIKit.
->   - 설계, 개발 및 유지보수.
->   - 메인 개발자.
+> ## (주)더함스토리
+> - 2018.03 ~ 2018.09
+> - iOS App Developer
 >
-> ### 2018.11 ~ 2019.11.
-> - **mTalk**, HYUNDAI AutoEver, **Enterprise Messenger iOS Application**.
->   - JavaScript, Titanium SDK.
->   - 추가 개발 건, 개발 및 유지보수.
+> ## (주)장플레이스랩
+> - 2017.04 ~ 2017.06
+> - iOS App Developer
+>
+> ## (주)이센소프트
+> - 2015.10 ~ 2016.04
+> - iOS App Developer
 
+## 프로젝트
+> ## **Linearhub - Roundee**
+> - **Video Conferencing iOS Application**.
+> - 2018.11 ~ 2019.11.
+> - Swift, Foundation, UIKit.
+> - 설계, 개발 및 유지보수.
+> - 메인 개발자.
+> - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585)
+>
+> ## **LOTTE e-commerce - Roundee Framework**
+> - **Video Conferencing iOS Framework**.
+> - 2018.11 ~ 2019.11.
+> - Swift, Foundation, UIKit.
+> - 설계, 개발 및 유지보수.
+> - 메인 개발자.
+>
+> ## **HYUNDAI AutoEver - mTalk**
+> - 2018.11 ~ 2019.11.
+> - **Enterprise Messenger iOS Application**.
+> - JavaScript, Titanium SDK.
+> - 추가 개발 건, 개발 및 유지보수.
+>
 > ## **더함스토리**
 > ### 2018.03 ~ 2018.09
 > - **QURY** 지식, 질문을 통한 관심사 기반 **SNS iOS Application**.
