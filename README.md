@@ -30,88 +30,92 @@
 > - Auto Layout with Storyboard.
 > - Auto Layout with Code.
 
->### Windows
+> ### Windows
 > - C#, .NET Framework, Oracle 중급.
 > - C++, MFC, Oracle 중급.
 
->### Web Back-end.
+> ### Web Back-end.
 > - Java, Spring Framework, MS SQL Server, MySQL 초급.
 
->### Web Front-end.
+> ### Web Front-end.
 > - JavaScript, jQuery, HTML 초급.
 
-## 경력기술서
+## 이력서
+> ## **Linearhub**
 > ### 2018.11 ~ 2019.11.
 > - **Roundee**, Linearhub, **Video Conferencing iOS Application**.
 >   - Swift, Foundation, UIKit.
 >   - 설계, 개발 및 유지보수.
 >   - 메인 개발자.
 >   - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585)
-
+>
 > ### 2018.11 ~ 2019.11.
 > - **Roundee Framework**, LOTTE e-commerce, **Video Conferencing iOS Framework**.
 >   - Swift, Foundation, UIKit.
 >   - 설계, 개발 및 유지보수.
 >   - 메인 개발자.
-
+>
 > ### 2018.11 ~ 2019.11.
 > - **mTalk**, HYUNDAI AutoEver, **Enterprise Messenger iOS Application**.
 >   - JavaScript, Titanium SDK.
 >   - 추가 개발 건, 개발 및 유지보수.
 
->### 2018.03 ~ 2018.09
+> ## **더함스토리**
+> ### 2018.03 ~ 2018.09
 > - **QURY** 지식, 질문을 통한 관심사 기반 **SNS iOS Application**.
 >   - Swift, Foundation, UIKit.
 >   - 설계, 개발 및 유지보수.
 >   - 메인 개발자.
-
->### 2017.10 ~ 2018.09
+>
+> ### 2017.10 ~ 2018.09
 > - **G-Line(GENESIS), H-Line(HYUNDAI)**, HYUNDAI AutoEver **Enterprise Messenger iOS Application**.
 >   - Objective-C, Foundation, UIKit.
 >   - 추가 개발 건, 개발 및 유지보수.
 >   - 메인 개발자.
 
->### 2017.04 ~ 2017.06
+> ## **장플레이스랩**
+> ### 2017.04 ~ 2017.06
 > - **옥반식품** 쇼핑몰 Admin, Client **Website**.
 >   - Java, Spring Framework, JavaScript, jQuery, HTML, MS SQL Server.
 >   - Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지 Front-end & Back-end 개발 및 유지보수.
 >   - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
 >   - [Website](https://www.okban.co.kr/homepage)
-
->### 2017.02 ~ 2017.03
+>
+> ### 2017.02 ~ 2017.03
 > - **ZLAB 홈페이지** Admin, Client **Website**.
 >   - Java, Spring Framework, JavaScript, jQuery, HTML, MySQL.
 >   - Client 사이트 ABOUT US 페이지 Front-end & Back-end 개발 및 유지보수.
 >   - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
-
+>
 >### 2016.10 ~ 2017.06
 > - **AJ파크** 주차장 검색, 결제 **Navigation iOS Application**.
 >   - Objective-C, Foundation, UIKit.
 >   - 설계, 개발 및 유지보수.
 >   - 메인 개발자.
 
->### 2015.10 ~ 2016.04
+> ## **이센소프트**
+> ### 2015.10 ~ 2016.04
 > - **MaterialOrders** 자재 발주 **Windows Application**.
 >   - C#, .NET Framework, Oracle.
 >   - 추가 개발 건, 개발 및 유지보수.
-
->### 2015.03 ~ 2015.08
+>
+> ### 2015.03 ~ 2015.08
 > - **HeadendDesigner** HEADEND(헤드엔드), RACK(서버 랙) 설계 **Windows Application**. 
 >   - C#, .NET Framework, MindFusion, Oracle.
 >   - 설계, 개발 및 유지보수.
-
->### 2014.05 ~ 2014.09
+>
+> ### 2014.05 ~ 2014.09
 > - **ResourceMonitoring** 서버 리소스 모니터링 **Windows Application**.
 >   - C++, MFC, Oracle.
 >   - 설계, 개발 및 유지보수.
 >   - 메인 개발자.
-
->### 2013.01 ~ 2016.04
+>
+> ### 2013.01 ~ 2016.04
 > - **Cablenavigator** 광동축망 네트워크 관리 시스템(HFC NMS) **Windows Application**. 
 >   - C++, MFC, Oracle.
 >   - 추가 개발 건, 개발 및 유지보수.
-
->### 2012.04 ~ 2016.04
+>
+> ### 2012.04 ~ 2016.04
 > - **CAMS** 광동축망 네트워크 관리 시스템(HFC NMS) **Enterprise iOS Application**.
 >   - Objective-C, Foundation, UIKit.
 >   - 설계, 개발 및 유지보수.
