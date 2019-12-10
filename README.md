@@ -7,8 +7,8 @@
 > - 모나지 않은 성격입니다.
 
 ## 능력
-> ### Skills group
-> | Skills Group | Skills |
+> ### Skills
+> | Group | Skill |
 > | ------------- | ------------- |
 > | Platform  | iOS, Windows, Web |
 > | Language  | Swift, Objective-C, C#, C++, Java, JavaScript |
@@ -66,7 +66,7 @@
 > - 메인 개발자.
 > - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585)
 >
-> ## **LOTTE e-commerce - Roundee Framework**
+> ## **LOTTE Ecommerce - Roundee Framework**
 > - **Video Conferencing iOS Framework**.
 > - 2018.11 ~ 2019.11.
 > - Swift, Foundation, UIKit.
@@ -74,71 +74,78 @@
 > - 메인 개발자.
 >
 > ## **HYUNDAI AutoEver - mTalk**
-> - 2018.11 ~ 2019.11.
 > - **Enterprise Messenger iOS Application**.
+> - 2018.11 ~ 2019.11.
 > - JavaScript, Titanium SDK.
 > - 추가 개발 건, 개발 및 유지보수.
 >
-> ## **더함스토리**
-> ### 2018.03 ~ 2018.09
-> - **QURY** 지식, 질문을 통한 관심사 기반 **SNS iOS Application**.
->   - Swift, Foundation, UIKit.
->   - 설계, 개발 및 유지보수.
->   - 메인 개발자.
+> ## **QURY**
+> - **SNS iOS Application**.
+> - 2018.03 ~ 2018.09.
+> - Swift, Foundation, UIKit.
+> - 설계, 개발 및 유지보수.
+> - 메인 개발자.
 >
-> ### 2017.10 ~ 2018.09
-> - **G-Line(GENESIS), H-Line(HYUNDAI)**, HYUNDAI AutoEver **Enterprise Messenger iOS Application**.
->   - Objective-C, Foundation, UIKit.
->   - 추가 개발 건, 개발 및 유지보수.
->   - 메인 개발자.
-
-> ## **장플레이스랩**
-> ### 2017.04 ~ 2017.06
-> - **옥반식품** 쇼핑몰 Admin, Client **Website**.
->   - Java, Spring Framework, JavaScript, jQuery, HTML, MS SQL Server.
->   - Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지 Front-end & Back-end 개발 및 유지보수.
->   - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
->   - [Website](https://www.okban.co.kr/homepage)
+> ## **HYUNDAI AutoEver - G-Line(GENESIS), H-Line(HYUNDAI)**
+> -  **Enterprise Messenger iOS Application**.
+> - 2017.10 ~ 2018.09.
+> - Objective-C, Foundation, UIKit.
+> - 추가 개발 건, 개발 및 유지보수.
+> - 메인 개발자.
 >
-> ### 2017.02 ~ 2017.03
-> - **ZLAB 홈페이지** Admin, Client **Website**.
->   - Java, Spring Framework, JavaScript, jQuery, HTML, MySQL.
->   - Client 사이트 ABOUT US 페이지 Front-end & Back-end 개발 및 유지보수.
->   - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
+> ## **옥반식품** 
+> - **Shopping Mall Website**.
+> - 2017.04 ~ 2017.06
+> - Java, Spring Framework, JavaScript, jQuery, HTML, MS SQL Server.
+> - Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지 Front-end & Back-end 개발 및 유지보수.
+> - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
+> - [Website](https://www.okban.co.kr/homepage)
 >
->### 2016.10 ~ 2017.06
-> - **AJ파크** 주차장 검색, 결제 **Navigation iOS Application**.
->   - Objective-C, Foundation, UIKit.
->   - 설계, 개발 및 유지보수.
->   - 메인 개발자.
-
-> ## **이센소프트**
-> ### 2015.10 ~ 2016.04
-> - **MaterialOrders** 자재 발주 **Windows Application**.
->   - C#, .NET Framework, Oracle.
->   - 추가 개발 건, 개발 및 유지보수.
+> ## **ZLAB 홈페이지** 
+> - **Homepage Website**.
+> - 2017.02 ~ 2017.03
+> - Java, Spring Framework, JavaScript, jQuery, HTML, MySQL.
+> - Client 사이트 ABOUT US 페이지 Front-end & Back-end 개발 및 유지보수.
+> - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
 >
-> ### 2015.03 ~ 2015.08
-> - **HeadendDesigner** HEADEND(헤드엔드), RACK(서버 랙) 설계 **Windows Application**. 
->   - C#, .NET Framework, MindFusion, Oracle.
->   - 설계, 개발 및 유지보수.
+> ## **AJ파크 - AJ파크** 
+> - **Navigation iOS Application**.
+> - 2016.10 ~ 2017.06
+> - Objective-C, Foundation, UIKit.
+> - 설계, 개발 및 유지보수.
+> - 메인 개발자.
 >
-> ### 2014.05 ~ 2014.09
-> - **ResourceMonitoring** 서버 리소스 모니터링 **Windows Application**.
->   - C++, MFC, Oracle.
->   - 설계, 개발 및 유지보수.
->   - 메인 개발자.
+> ## **CJ HELLO - Cablenavigator** 
+> - 광동축망 네트워크 관리 시스템(HFC NMS) **Enterprise Windows Application**. 
+> - 2013.01 ~ 2016.04
+> - C++, MFC, Oracle.
+> - 추가 개발 건, 개발 및 유지보수.
 >
-> ### 2013.01 ~ 2016.04
-> - **Cablenavigator** 광동축망 네트워크 관리 시스템(HFC NMS) **Windows Application**. 
->   - C++, MFC, Oracle.
->   - 추가 개발 건, 개발 및 유지보수.
+> ## **CJ HELLO - CAMS** 
+> - 광동축망 네트워크 관리 시스템(HFC NMS) **Enterprise iOS Application**.
+> - 2012.04 ~ 2016.04
+> - Objective-C, Foundation, UIKit.
+> - 설계, 개발 및 유지보수.
+> - 메인 개발자.
 >
-> ### 2012.04 ~ 2016.04
-> - **CAMS** 광동축망 네트워크 관리 시스템(HFC NMS) **Enterprise iOS Application**.
->   - Objective-C, Foundation, UIKit.
->   - 설계, 개발 및 유지보수.
->   - 메인 개발자.
+> ## **MaterialOrders** 
+> - 자재 발주 **Enterprise Windows Application**.
+> - 2015.10 ~ 2016.04
+> - C#, .NET Framework, Oracle.
+> - 추가 개발 건, 개발 및 유지보수.
+>
+> ## **HeadendDesigner** 
+> - HEADEND(헤드엔드), RACK(서버 랙) 설계 **Enterprise Windows Application**. 
+> - 2015.03 ~ 2015.08
+> - C#, .NET Framework, MindFusion, Oracle.
+> - 설계, 개발 및 유지보수.
+>
+> ## **ResourceMonitoring** 
+> - 서버 리소스 모니터링 **Enterprise Windows Application**.
+> - 2014.05 ~ 2014.09
+> - C++, MFC, Oracle.
+> - 설계, 개발 및 유지보수.
+> - 메인 개발자.
 
 ## 주소 & 연락처
 > ### 주소
