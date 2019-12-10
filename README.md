@@ -1,9 +1,14 @@
 # iOS Software Engineer 김동현
 
 ## 소개
-> ## 목표, 특징
+> ## 특징
 > - 새로운 기술을 익히는데 관심 있어, 새로운 기술을 익히는데 두려움이 없습니다.
 > - 모나지 않은 성격입니다.
+> ## 주소
+> - 서울특별시 관악구
+> ## 연락처
+> - [![e-mail](https://img.shields.io/badge/email-eastsunshinee@gmail.com-blue.svg)](mailto:yo@yevgnenll.me)<br />
+> - ![e-mail](https://img.shields.io/badge/phone-010--4788--1327-blue.svg)
 
 ## 능력
 > ## Skills
@@ -145,10 +150,3 @@
 > - C++, MFC, Oracle.
 > - 설계, 개발 및 유지보수.
 > - 메인 개발자.
-
-## 주소 & 연락처
-> ## 주소
-> - 서울특별시 관악구
-> ## 연락처
-> - [![e-mail](https://img.shields.io/badge/email-eastsunshinee@gmail.com-blue.svg)](mailto:yo@yevgnenll.me)<br />
-> - ![e-mail](https://img.shields.io/badge/phone-010--4788--1327-blue.svg)
