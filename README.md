@@ -147,8 +147,8 @@
 > - 메인 개발자.
 
 ## 주소 & 연락처
-> ### 주소
+> ## 주소
 > - 서울특별시 관악구
-> ### 연락처
+> ## 연락처
 > - [![e-mail](https://img.shields.io/badge/email-eastsunshinee@gmail.com-blue.svg)](mailto:yo@yevgnenll.me)<br />
 > - ![e-mail](https://img.shields.io/badge/phone-010--4788--1327-blue.svg)
