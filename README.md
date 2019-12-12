@@ -68,7 +68,7 @@
 >   - [WebRTC](https://webrtc.org/)를 활용해 RTC(Real-Time Communications) 기능 구현.
 >   - Signal 서버와 Signaling 기능 구현.
 >   - TestFlight, [Asana](https://asana.com/?utm_source=unknown&utm_campaign=app.asana.com#close)를 활용해 내부 테스트 진행.
->   - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585).
+>   - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585) .
 > <img src="img/roundee01.png" width="19%">
 > <img src="img/roundee02.png" width="19%">
 > <img src="img/roundee03.png" width="19%">
