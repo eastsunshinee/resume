@@ -11,8 +11,8 @@
 > - ![e-mail](https://img.shields.io/badge/phone-010--4788--1327-blue.svg)
 
 ## 능력
-> ## Skills
-> | Group | Skill |
+> ## Stack
+> | Group | Tech |
 > | ------------- | ------------- |
 > | Platform  | iOS, Windows, Web |
 > | Language  | Swift, Objective-C, C#, C++, Java, JavaScript |
