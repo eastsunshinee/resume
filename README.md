@@ -75,9 +75,9 @@
 >   - Signal 서버와 Signaling 기능 구현.
 >   - TestFlight, [Asana](https://asana.com/?utm_source=unknown&utm_campaign=app.asana.com#close)를 활용해 내부 테스트 진행.
 >
->     <img src="img/roundee01.png" width="19%">
->     <img src="img/roundee01.png" width="19%">
->     <img src="img/roundee01.png" width="19%">
+>     <img src="img/asana01.PNG" width="50%">
+>     <img src="img/asana02.PNG" width="50%">
+>     <img src="img/asana03.PNG" width="50%">
 >   - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585).
 >
 > ## **LOTTE Ecommerce - Roundee Framework**
