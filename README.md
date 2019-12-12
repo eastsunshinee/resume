@@ -68,11 +68,11 @@
 >   - [AppStore](https://apps.apple.com/app/roundee-smart-video-meetings/id1477591585)
 >
 >
-><img src="img/roundee01.png" width="20%">
-><img src="img/roundee02.png" width="20%">
-><img src="img/roundee03.png" width="20%">
-><img src="img/roundee04.png" width="20%">
-><img src="img/roundee05.png" width="20%">
+> <img src="img/roundee01.png" width="19%">
+> <img src="img/roundee02.png" width="19%">
+> <img src="img/roundee03.png" width="19%">
+> <img src="img/roundee04.png" width="19%">
+> <img src="img/roundee05.png" width="19%">
 >
 > ## **LOTTE Ecommerce - Roundee Framework**
 > - 2018.11 ~ 2019.11.
