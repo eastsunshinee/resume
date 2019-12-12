@@ -85,7 +85,7 @@
 >
 > ## **HYUNDAI AutoEver - G-Line(GENESIS), H-Line(HYUNDAI)**
 > - 2017.10 ~ 2018.09.
-> -  **Enterprise Messenger iOS Application**.
+> - **Enterprise Messenger iOS Application**.
 >   - 메인 개발자로서 추가 개발 건, 개발 및 유지보수.
 >
 > ## **OKBAN - 옥반식품** 
