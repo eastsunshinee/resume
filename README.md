@@ -81,7 +81,9 @@
 >   - 메인 개발자로서 설계, 개발 및 유지보수.
 >   - [WebRTC](https://webrtc.org/)를 활용해 RTC(Real-Time Communications) 기능 구현.
 >   - Signal 서버와 Signaling 기능 구현.
->   - **PasS** 프로젝트, Framework API 가이드라인 작성 및 제공.
+>   - **PasS** 프로젝트
+>     - 연동 규격 문서 작성.
+>     - 샘플 가이드라인 문서 작성.
 >
 > ## **HYUNDAI AutoEver - mTalk** 
 > - 2018.11 ~ 2019.11.
