@@ -19,7 +19,7 @@
 > | IDE | Xcode, Visual Studio, Eclipse, Appcelerator |
 > | SCM | Git(Sourcetree), SVN(SmartSVN), VSS(MS Visual SourceSafe) |
 > | DBMS | Oracle, MS SQL Server, MySQL |
-> | etc. | Asana, Trello, Postman, Figma, Sketch |
+> | etc. | Postman, Asana, Trello, Figma, Zeplin |
 >
 > ## iOS
 > - App Store 배포 경험.
