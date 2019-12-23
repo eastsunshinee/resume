@@ -1,7 +1,4 @@
-# iOS Software Engineer 김동현
-
-
-## 소개
+## iOS Software Engineer 김동현
 ### 특징
 - 새로운 기술을 익히는데 관심 있습니다.
 - 모나지 않은 성격입니다.
@@ -68,6 +65,7 @@
 ### **Linearhub - Roundee**
 - 2018.11 ~ 2019.11.
 - **Video Conferencing iOS Application**.
+- 역할.
   - 메인 개발자로서 설계, 개발 및 유지보수.
   - [WebRTC](https://webrtc.org/)를 활용해 RTC(Real-Time Communications) 기능 구현.
   - Signaling 기능 구현.
