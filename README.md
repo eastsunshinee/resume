@@ -22,7 +22,7 @@
 
 ### iOS
 - Swift, Objective-C.
-- VIPER, MVVM, MVC.
+- VIPER, MVVM, MVP, MVC.
 - App Store distribution, In-House distribution.
 - TestFlight, App Store Connect.
 - GCD, NSOperation Asynchronous.
@@ -64,7 +64,9 @@
 ## 이력
 ### **Linearhub - Roundee**
 - 2018.11 ~ 2019.11.
-- **Video Conferencing iOS Application**.
+- 소개.
+  - **Video Conferencing iOS Application**.
+  - WebRTC 기반, 화상회의 서비스.
 - 역할.
   - 메인 개발자로서 설계, 개발 및 유지보수.
   - [WebRTC](https://webrtc.org/)를 활용해 RTC(Real-Time Communications) 기능 구현.
@@ -76,68 +78,98 @@
 
 ### **LOTTE Ecommerce - Roundee Framework**
 - 2018.11 ~ 2019.11.
-- **Video Conferencing iOS Framework**.
+- 소개.
+  - **Video Conferencing iOS Framework**.
+  - **PasS**, iOS API 서비스.
+- 역할.
   - 메인 개발자로서 설계, 개발 및 유지보수.
   - [WebRTC](https://webrtc.org/)를 활용해 RTC(Real-Time Communications) 기능 구현.
   - Signaling 기능 구현.
-  - **PasS** 프로젝트.
   - 연동 규격 문서 작성.
   - 샘플 가이드라인 문서 작성.
 
 ### **HYUNDAI AutoEver - mTalk** 
 - 2018.11 ~ 2019.11.
-- **Enterprise Messenger iOS Application**.
-- 서브 개발자로서 추가 개발 건 개발 및 유지보수.
+- 소개.
+  - **Enterprise Messenger iOS Application**.
+- 역할.
+  - 서브 개발자로서 추가 개발 건 개발 및 유지보수.
 
 ### **DEOHAM - QURY**
 - 2018.03 ~ 2018.09.
-- **SNS iOS Application**.
+- 소개.
+  - **SNS iOS Application**.
+- 역할.
   - 메인 개발자로서 설계, 개발 및 유지보수.
 
 ### **HYUNDAI AutoEver - G-Line(GENESIS), H-Line(HYUNDAI)**
 - 2017.10 ~ 2018.09.
-- **Enterprise Messenger iOS Application**.
+- 소개.
+  - **Enterprise Messenger iOS Application**.
+- 역할.
   - 메인 개발자로서 추가 개발 건, 개발 및 유지보수.
 
 ### **OKBAN - 옥반식품** 
 - 2017.04 ~ 2017.06
-- **Shopping Mall Website**.
+- 소개.
+  - **Shopping Mall Website**.
+- 역할.
   - Client 사이트 회원가입, 로그인, 회원탈퇴, 아이디 & 비밀번호 찾기, 휴면계정 페이지 Front-end & Back-end 개발 및 유지보수.
   - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
   - [Website](https://www.okban.co.kr/homepage)
 
 ### **ZLAB - ZLAB 홈페이지** 
 - 2017.02 ~ 2017.03
-- **Homepage Website**.
+- 소개.
+  - **Homepage Website**.
+- 역할.
   - Client 사이트 ABOUT US 페이지 Front-end & Back-end 개발 및 유지보수.
   - Admin 사이트 일부 페이지 Front-end & Back-end 개발 및 유지보수.
 
 ### **AJ Park - AJ파크** 
 - 2016.10 ~ 2017.06
-- **Navigation iOS Application**.
+- 소개.
+  - **Navigation iOS Application**.
+  - 주차장 내비게이션.
+- 역할.
   - 메인 개발자로서 설계, 개발 및 유지보수.
 
 ### **CJ HELLO - Cablenavigator** 
 - 2013.01 ~ 2016.04
-- 광동축망 네트워크 관리 시스템(HFC NMS) **Enterprise Windows Application**. 
+- 소개.
+  - **Enterprise Windows Application**.
+  - 광동축망 네트워크 관리 시스템(HFC NMS).
+- 역할.
   - 서브 개발자로서 추가 개발 건, 개발 및 유지보수.
 
 ### **CJ HELLO - CAMS** 
 - 2012.04 ~ 2016.04
-- 광동축망 네트워크 관리 시스템(HFC NMS) **Enterprise iOS Application**.
+- 소개.
+  - **Enterprise iOS Application**.
+  - 광동축망 네트워크 관리 시스템(HFC NMS).
+- 역할.
   - 메인 개발자로서 설계, 개발 및 유지보수.
 
 ### **Essen - MaterialOrders** 
 - 2015.10 ~ 2016.04
-- 자재 발주 **Enterprise Windows Application**.
+- 소개.
+  - **Enterprise Windows Application**.
+  - 자재 발주 서비스.
+- 역할.
   - 서브 개발자로서 추가 개발 건, 개발 및 유지보수.
 
 ### **Essen - HeadendDesigner** 
 - 2015.03 ~ 2015.08
-- HEADEND(헤드엔드), RACK(서버 랙) 설계 **Enterprise Windows Application**. 
+- 소개.
+  - **Enterprise Windows Application**.
+  - HEADEND(헤드엔드), RACK(서버 랙) 설계 서비스.
+- 역할.
   - 메인 개발자로서 설계, 개발 및 유지보수.
 
 ### **Essen - ResourceMonitoring** 
 - 2014.05 ~ 2014.09
-- 서버 리소스 모니터링 **Enterprise Windows Application**.
+- 소개.
+  - **Enterprise Windows Application**.
+  - 서버 리소스 모니터링 서비스.
+- 역할.
   - 메인 개발자로서 설계, 개발 및 유지보수.
