@@ -22,7 +22,7 @@
 
 ### iOS
 - Swift, Objective-C.
-- VIPER, MVVM, MVP, MVC.
+- MVVM, MVC.
 - App Store distribution, In-House distribution.
 - TestFlight, App Store Connect.
 - GCD, NSOperation Asynchronous.
@@ -31,16 +31,17 @@
 - Open API(Google Sign-In, Facebook Account Kit, Naver Oauth, Naver Map, T map, KakaoNavi, NaverMap, KakaoPay, etc..).
 - Auto Layout with Storyboard, Auto Layout with Code.
 
+<--
 ### Windows
-- C#, .NET Framework, Oracle.
-- C++, MFC, Oracle.
+- C#, .NET Framework.
+- C++, MFC.
 
 ### Web Back-end.
 - Java, Spring Framework, MS SQL Server, MySQL.
 
 ### Web Front-end.
 - JavaScript, jQuery, HTML.
-
+-->
 
 ## 경력
 6년 7개월.
