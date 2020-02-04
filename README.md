@@ -37,10 +37,10 @@
 - C++, MFC.
 
 ### Web Back-end.
-- Java, Spring Framework, MS SQL Server, MySQL.
+- Java.
 
 ### Web Front-end.
-- JavaScript, jQuery, HTML.
+- JavaScript, HTML.
 -->
 
 ## 경력
