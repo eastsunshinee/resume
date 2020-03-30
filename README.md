@@ -16,7 +16,7 @@
 | Platform  | iOS, Windows, Web |
 | Language  | Swift, Objective-C, C#, C++, Java, JavaScript |
 | IDE | Xcode, Visual Studio, Eclipse, Appcelerator |
-| SCM | Git(Sourcetree), SVN(SmartSVN), VSS(MS Visual SourceSafe) |
+| VCS | Git(Sourcetree), SVN(SmartSVN), VSS(MS Visual SourceSafe) |
 | DBMS | Oracle, MS SQL Server, MySQL |
 | etc. | Postman, Asana, Notion, Trello, Figma, Zeplin |
 
