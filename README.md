@@ -15,10 +15,10 @@
 | ------------- | ------------- |
 | Platform  | iOS, Windows, Web |
 | Language  | Swift, Objective-C, C#, C++, Java, JavaScript |
-| IDE | Xcode, Visual Studio, Eclipse, Appcelerator |
+| IDE | Xcode, Visual Studio, Visual Studio Code, Android Studio, Eclipse, Appcelerator |
 | VCS | Git(Sourcetree), SVN(SmartSVN), VSS(MS Visual SourceSafe) |
 | DBMS | Oracle, MS SQL Server, MySQL |
-| etc. | Postman, Asana, Notion, Trello, Figma, Zeplin |
+| etc. | Postman, Slack, Jira, Asana, Trello, Notion, Figma, Zeplin |
 
 ### iOS
 - Swift, Objective-C.
