@@ -59,7 +59,7 @@
 
 ### (주)이센소프트
 - 2012.04 ~ 2016.04
-- iOS App Developer
+- Windows App Developer
 
 
 ## 이력
